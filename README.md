@@ -1,4 +1,4 @@
-# Huawei Modelarts Image Classification
+# Huawei ModelArts Image Classification
 End-to-end custom image classification and real-time service deployment using PyTorch and Huawei Cloud ModelArts.
 
 # Huawei ModelArts Görsel Sınıflandırma
